@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Card, List } from 'antd'
-import RemoveBoat from '../buttons/RemoveBoat'
 
 const getStyles = () => ({
   card: {
